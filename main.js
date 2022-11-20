@@ -26,7 +26,7 @@ document.querySelector('#app').innerHTML = `
 </header>
 <main id="cards">
 ${creatCard("24/11", "quinta", creatGame("brazil", "16:00", "serbia"))}
-${creatCard("28/11", "Segunda", creatGame("switzerland", "13:00", "brazil") + 
+${creatCard("28/11", "Segunda", creatGame("Switzerland", "13:00", "brazil") + 
 creatGame("portugal", "16:00", "uruguai")
 )}
 
