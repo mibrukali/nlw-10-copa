@@ -123,8 +123,7 @@
     "explorer.confirmDragAndDrop" : false,
     "terminal.integrated.fontSize" : 14,
     "editor.codeActionsOnSave" : {
-      "source.fixAll.eslint" : true,
-      // "source.organizeImports": true
+      "source.fixAll.eslint": "explicit"
     },
     "editor.semanticHighlighting.enabled" : false,
     "breadcrumbs.enabled" : true,
